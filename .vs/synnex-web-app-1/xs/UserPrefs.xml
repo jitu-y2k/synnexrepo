@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1FC54658-6C32-403B-9B07-1A26847C041B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.synnex-web-app-1 PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="synnex-web-app-1/Program.cs">
+    <Files>
+      <File FileName="synnex-web-app-1/Program.cs" Line="23" Column="23" />
+      <File FileName="synnex-web-app-1/Properties/launchSettings.json" Line="12" Column="14" />
+      <File FileName="synnex-web-app-1/synnex-web-app-1.csproj" Line="7" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="synnex-web-app-1" expanded="True">
+            <Node name="synnex-web-app-1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

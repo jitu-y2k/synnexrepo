@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/synnex-web-app-1.props" />
+</Project>
