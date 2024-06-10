@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("synnex-web-app-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a49a73aa6146b2f63861217b2cef59f4e0a4d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("synnex-web-app-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("synnex-web-app-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
